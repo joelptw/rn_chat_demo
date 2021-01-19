@@ -1,0 +1,5 @@
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const EMPLOYEES_LIST = 'EMPLOYEES_LIST';
+export const EMPLOYEES_ERROR = 'EMPLOYEES_ERROR';
+export const CHAT_ROOM = 'CHAT_ROOM';
+export const CHAT_ERROR = 'CHAT_ERROR';
